@@ -33,4 +33,4 @@ This project combines Python, PurpleAir and Google Maps APIs, and Tableau to ana
 ├── /scripts                # Python scripts for each functionality
 ├── /notebooks              # Jupyter notebooks for analysis
 ├── /visualizations         # Tableau dashboards and screenshots
-└── /docs                   # Additional documentation
+

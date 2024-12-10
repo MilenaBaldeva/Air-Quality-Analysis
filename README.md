@@ -29,7 +29,6 @@ This project combines Python, PurpleAir and Google Maps APIs, and Tableau to ana
 │
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
-├── /data                   # CSV files with extracted/enriched data
 ├── /scripts                # Python scripts for each functionality
 ├── /notebooks              # Jupyter notebooks for analysis
 ├── /visualizations         # Tableau dashboards and screenshots

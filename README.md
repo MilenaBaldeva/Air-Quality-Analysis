@@ -28,7 +28,7 @@ Orange: Unhealthy for Sensitive Groups
 Red: Unhealthy
 Purple: Very Unhealthy
 Maroon: Hazardous
-• Interactive filter: Clicking on one or multiple city filters the entire dashboard to show detailed data for that location.
+• Interactive filter: Clicking on one or multiple cities filters the entire dashboard to show detailed data for those locations.
 
 *📈 Line Chart – Average AQI Over Time*
 • Shows trends in average AQI over time.

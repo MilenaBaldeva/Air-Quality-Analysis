@@ -1,7 +1,7 @@
 # Air-Quality-Analysis
 Python-based air quality data analysis using APIs and Tableau.
 
-Overview
+**Overview**
 
 This project combines Python, PurpleAir and Google Maps APIs, and Tableau to analyze air quality data. The goal is to extract, enrich, and visualize air quality insights, providing actionable information for public health and environmental awareness.
 
@@ -18,7 +18,8 @@ The project includes a Tableau dashboard that visualizes air quality data and of
 
 **Tableau Dashboard Overview**
 
-🗺️ Air Quality Map
+*🗺️ Air Quality Map*
+
 • Displays average Air Quality Index (AQI) for each city.
 • Color-coded markers based on air quality levels:
 Green: Good
@@ -28,24 +29,29 @@ Red: Unhealthy
 Purple: Very Unhealthy
 Maroon: Hazardous
 • Interactive filter: Clicking on a city filters the entire dashboard to show detailed data for that location.
-📈 Line Chart – Average AQI Over Time
+
+*📈 Line Chart – Average AQI Over Time*
 • Shows trends in average AQI over time.
 • The line color changes based on AQI levels.
 • Can be used as a time filter by selecting a specific date range.
-📊 Top Locations with Poor and Good Air Quality
+
+*📊 Top Locations with Poor and Good Air Quality*
 • Two tables showing:
   • Top Locations with Poor Air Quality (High AQI)
   • Top Locations with Good Air Quality (Low AQI)
 • Displays the Top 5 states and Top 3 cities within each state.
 • Clicking on a city or state filters the dashboard to display historical data for that location.
-📉 Air Quality Levels Distribution
+
+*📉 Air Quality Levels Distribution*
 • Bar chart showing the distribution of air quality levels (Good, Moderate, Unhealthy, etc.) for the selected filters.
-🎛️ Filters
+
+*🎛️ Filters*
 • Time Period Filter: Select a date range to view data within that period.
 • State Filter: Dropdown menu to filter by state.
 • City Filter: Dropdown menu to filter by city.
 • Map Filter: Mini map to select specific geographic regions.
-🗂️ Legend
+
+*🗂️ Legend*
 • Provides a color guide for air quality levels, applicable across all visualizations.
 
 

@@ -20,9 +20,12 @@ This project combines Python, PurpleAir and Google Maps APIs, and Tableau to ana
   • Google Maps API for location enrichment
 • Tools: Pandas, Requests, CSV
 • Data Visualization: Tableau - Interactive Tableau Dashboard: https://public.tableau.com/views/AIRQualityDashboard/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-<img src="https://github.com/user-attachments/assets/b33e7a59-84f2-4d12-b9d3-ad80a1b831f5" width="300px" />
 
-<img src="![AQ_Dashboard](https://github.com/user-attachments/assets/b33e7a59-84f2-4d12-b9d3-ad80a1b831f5)" width="500px"/>
+
+<img src="https://github.com/user-attachments/assets/b33e7a59-84f2-4d12-b9d3-ad80a1b831f5" width="400px" />
+
+<img src="https://github.com/user-attachments/assets/3ff244bc-e557-4904-828a-b5e07c041d22" width="400px" />
+
 
  ![image](https://github.com/user-attachments/assets/3ff244bc-e557-4904-828a-b5e07c041d22)
 

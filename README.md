@@ -28,7 +28,7 @@ Orange: Unhealthy for Sensitive Groups
 Red: Unhealthy
 Purple: Very Unhealthy
 Maroon: Hazardous
-• Interactive filter: Clicking on a city filters the entire dashboard to show detailed data for that location.
+• Interactive filter: Clicking on one or multiple city filters the entire dashboard to show detailed data for that location.
 
 *📈 Line Chart – Average AQI Over Time*
 • Shows trends in average AQI over time.
@@ -49,7 +49,7 @@ Maroon: Hazardous
 • Time Period Filter: Select a date range to view data within that period.
 • State Filter: Dropdown menu to filter by state.
 • City Filter: Dropdown menu to filter by city.
-• Map Filter: Mini map to select specific geographic regions.
+• Map Filter: Mini map to select states or specific geographic regions.
 
 *🗂️ Legend*
 • Provides a color guide for air quality levels, applicable across all visualizations.

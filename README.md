@@ -21,7 +21,7 @@ This project combines Python, PurpleAir and Google Maps APIs, and Tableau to ana
 • Tools: Pandas, Requests, CSV
 • Data Visualization: Tableau - Interactive Tableau Dashboard: https://public.tableau.com/views/AIRQualityDashboard/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-###  ![image](https://github.com/user-attachments/assets/b488efc4-76bf-4499-a164-e30064a9766b) ![image](https://github.com/user-attachments/assets/3ff244bc-e557-4904-828a-b5e07c041d22)###
+#####  ![image](https://github.com/user-attachments/assets/b488efc4-76bf-4499-a164-e30064a9766b) ![image](https://github.com/user-attachments/assets/3ff244bc-e557-4904-828a-b5e07c041d22)
 
 
 

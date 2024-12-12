@@ -64,6 +64,8 @@ Maroon: Hazardous
 • Tools: Pandas, Requests, CSV
 • Data Visualization: Tableau - Interactive Tableau Dashboard: https://public.tableau.com/views/AIRQualityDashboard/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+LinkedIn Article: https://www.linkedin.com/pulse/tracking-air-quality-across-usa-python-apis-tableau-milena-baldeva-mkase/?trackingId=tGD1FpqnTCC5Rn6KzbJX%2Fw%3D%3D
+
 
 <img src="https://github.com/user-attachments/assets/b33e7a59-84f2-4d12-b9d3-ad80a1b831f5" width="500px" />
 

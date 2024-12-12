@@ -7,10 +7,47 @@ This project combines Python, PurpleAir and Google Maps APIs, and Tableau to ana
 
 **Features**
 
-• Data Extraction: Retrieves real-time and historical air quality data using the PurpleAir API.
-• Data Enrichment: Adds city and country information to sensor data via the Google Maps API.
-• Scalable Workflow: Designed for efficient handling of large datasets.
-• Visualization: Presents insights through an interactive Tableau dashboard.
+✅ Data Extraction
+Retrieves real-time and historical air quality data using the PurpleAir API.
+✅ Data Enrichment
+Adds city and country information to sensor data via the Google Maps API.
+✅ Scalable Workflow
+Designed for efficient handling of large datasets using Python libraries like Pandas and Requests.
+✅ Interactive Dashboard
+The project includes a Tableau dashboard that visualizes air quality data and offers several interactive features.
+
+**Tableau Dashboard Overview**
+
+🗺️ Air Quality Map
+• Displays average Air Quality Index (AQI) for each city.
+• Color-coded markers based on air quality levels:
+Green: Good
+Yellow: Moderate
+Orange: Unhealthy for Sensitive Groups
+Red: Unhealthy
+Purple: Very Unhealthy
+Maroon: Hazardous
+• Interactive filter: Clicking on a city filters the entire dashboard to show detailed data for that location.
+📈 Line Chart – Average AQI Over Time
+• Shows trends in average AQI over time.
+• The line color changes based on AQI levels.
+• Can be used as a time filter by selecting a specific date range.
+📊 Top Locations with Poor and Good Air Quality
+• Two tables showing:
+  • Top Locations with Poor Air Quality (High AQI)
+  • Top Locations with Good Air Quality (Low AQI)
+• Displays the Top 5 states and Top 3 cities within each state.
+• Clicking on a city or state filters the dashboard to display historical data for that location.
+📉 Air Quality Levels Distribution
+• Bar chart showing the distribution of air quality levels (Good, Moderate, Unhealthy, etc.) for the selected filters.
+🎛️ Filters
+• Time Period Filter: Select a date range to view data within that period.
+• State Filter: Dropdown menu to filter by state.
+• City Filter: Dropdown menu to filter by city.
+• Map Filter: Mini map to select specific geographic regions.
+🗂️ Legend
+• Provides a color guide for air quality levels, applicable across all visualizations.
+
 
 **Technologies Used**
 
@@ -30,9 +67,14 @@ This project combines Python, PurpleAir and Google Maps APIs, and Tableau to ana
 
 /project-repo
 │
-├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies
-├── /scripts                # Python scripts for each functionality
-├── /notebooks              # Jupyter notebooks for analysis
-├── /visualizations         # Tableau dashboards and screenshots
-
+├── README.md           # Project documentation
+├── requirements.txt    # Python dependencies
+│
+├── /scripts            # Python scripts for each functionality
+│   ├── extract_data.py # Extracts data from APIs
+│   └── enrich_data.py  # Enriches data with location info
+│
+├── /notebooks          # Jupyter notebooks for analysis
+│
+└── /visualizations     # Tableau dashboards and screenshots
+    └── dashboard.twb
